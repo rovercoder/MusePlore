@@ -1,0 +1,5 @@
+How many different shark species are alive today?<>More than 100<>More than 400#<>More than 2000
+How many bones does a dog have?<>200<>350<>319#<>450
+How much does a male gorilla weigh?<>350 pounds<>480 pounds#<>230 pounds<>560 pounds
+Human bone is made of what mineral?<>Borax<>Calcium#<>Gypsum<>Authracite
+What is the largest type of monkey?<>Golden Monkey<>Baboon<>Mandrill#<>Gibbon

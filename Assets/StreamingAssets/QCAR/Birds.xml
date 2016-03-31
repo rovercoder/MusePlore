@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="spur_winged_larwing" size="200.000000 234.939758" />
+    <ImageTarget name="rose_breasted_grosbeak" size="200.000000 208.290161" />
+    <ImageTarget name="pelican" size="200.000000 150.000000" />
+    <ImageTarget name="owl" size="200.000000 150.000000" />
+    <ImageTarget name="crow" size="200.000000 150.000000" />
+    <ImageTarget name="black_stork" size="200.000000 150.000000" />
+  </Tracking>
+</QCARConfig>
